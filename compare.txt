@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 testing 
 testing 
+=======
+dasdsadsadsad
+dsadsadsad
+>>>>>>> test
